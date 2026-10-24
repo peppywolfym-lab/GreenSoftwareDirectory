@@ -3,6 +3,12 @@
 ---
 ## GitHub's Green Software Directory is a simple and easy-to-use resource that all developers can use to adopt green software tools. This list aims to help any developer find green software projects available on GitHub. 
 
+### Maintainer & Contributor Information
+- **Maintained by:** YasirBinMudassir ([@peppywolfym-lab](https://github.com/peppywolfym-lab))
+- **Contact:** [peppywolf.ym@gmail.com](mailto:peppywolf.ym@gmail.com)
+
+---
+
 ### What is “Green Software”?
 Green software meets all of our modern needs while being carbon aware and efficient. Only three activities reduce the carbon emissions of software: energy efficiency, carbon awareness, and hardware efficiency.
 
@@ -16,7 +22,7 @@ We reviewed all repositories on GitHub that self-identified being green software
 
 We were particularly inspired by the Green Software Foundation's [awesome-green-software](https://github.com/green-software-foundation/awesome-green-software) list, a valuable resource that has been developed by the Green Software Foundation community over the past few years, and the [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology) directory. 
 
-This list is managed by GitHub Sustainability with the Social Impact Team.
+This list is managed by GitHub Sustainability with the Social Impact Team, alongside community maintainer **YasirBinMudassir**.
 
 **Categories:**
 - **[Measurement](#measurement)**
@@ -24,7 +30,7 @@ This list is managed by GitHub Sustainability with the Social Impact Team.
 - **[Carbon Awareness](#carbon-awareness)**
 - **[Special Tools](#special-tools)**
 
-Do you know of an incredible green software repository that we missed? Let us know! This list is meant to continually grow and develop, so we welcome any suggestions from our community on how we can improve it. Create a [pull request](#contributing-to-githubs-green-software-directory) with a brief explanation to add a new project.
+Do you know of an incredible green software repository that we missed? Let us know! This list is meant to continually grow and develop, so we welcome any suggestions from our community on how we can improve it. Create a [pull request](#contributing-to-githubs-green-software-directory) with a brief explanation to add a new project, or contact **YasirBinMudassir** at [peppywolf.ym@gmail.com](mailto:peppywolf.ym@gmail.com).
 
 ## Measurement
 > Help measure and interpret the impact of emissions and the environmental impact of software use.
@@ -108,7 +114,7 @@ Do you know of an incredible green software repository that we missed? Let us kn
 - [Carbon-Aware-Computing](https://github.com/bluehands/Carbon-Aware-Computing): The goal of this project is to provide developers with hassle free, easy to use, ready to run tools for carbon aware computing. All libraries and data are open source and open data with unrestricted usage. Within private, open source and commercial software. This project will deliver a set of libraries, services and data. There are mostly extensions to other projects and all credits belong to them. To forecast the best execution time the Carbon Aware SDK from the Green Software Foundation is used. The Forecast and actual data is from Energy-Charts provided by Fraunhofer ISE. For UK the data is provided by UK National Grid ESO.
 - [Carbon-minimiser](https://github.com/bbc/carbon-minimiser): The National Grid have created a Carbon Intensity API for Great Britain. This allows you to access to predictions for carbon intensity across England, Scotland, and Wales. The Carbon Minimiser sits on top of this, and allows you to estimate the optimal time to perform actions to reduce their impact on the planet, by choosing times when your area has a lower carbon intensity.
 - [Hangfire.Community.CarbonAwareExecution](https://github.com/bluehands/Hangfire.Community.CarbonAwareExecution): A Hangfire extension to schedule tasks with carbon awareness in mind. The best point in time is calculated based on emission forecasts to get a window with a minimal grid carbon intensity.
-- [Compute Gardener Scheduler](https://github.com/elevated-systems/compute-gardener-scheduler): Compute Gardener is an open source Kubernetes scheduler with the goal of making it much easier for a k8s cluster operator to immediately begin employing carbon or price signal aware strategies in order to shift deferrable jobs in time and space when power is cheaper or cleaner. Compute Gardener also captures all metrics necessary to validate mitigated emissions for reporting and future carbon credit generation purposes.
+- [Compute Gardener Scheduler](https://github.com/elevated-systems/compute-gardener-scheduler): Compute Gardener is an open source Kubernetes scheduler with the goal of making it much easier for a k8s cluster operator to immediately begin employing carbon or price signal aware strategies in order to shift deferrable jobs in time and space when power is cleaner. Compute Gardener also captures all metrics necessary to validate mitigated emissions for reporting and future carbon credit generation purposes.
 
 ## Special Tools
 - [Patterns](https://github.com/Green-Software-Foundation/patterns): An online open-source database of software patterns reviewed and curated by the Green Software Foundation across a wide range of categories.
@@ -126,8 +132,9 @@ Do you know of an incredible green software repository that we missed? Let us kn
 ### Contributing to GitHub's Green Software Directory
 We are looking for projects **on GitHub** that are actively being used/developed and can be used by others.
 
-- Create a fork of this project.
-- Create a new branch.
-- Add your project to a relevant category in the following format: [Project Name](Project URL) - A sentence that describes your project.
+- Create a fork of this project: [`peppywolfym-lab/green-software-directory`](https://github.com/peppywolfym-lab).
+- Create a new branch for your feature or project addition.
+- Add your project to a relevant category in the following format: `[Project Name](Project URL) - A sentence that describes your project.`
 - Create a pull request and wait for it to be reviewed and merged.
-- Further details on how create pull requests can be found in the official [GitHub documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+- For direct inquiries or questions about contributions, reach out to **YasirBinMudassir** at [peppywolf.ym@gmail.com](mailto:peppywolf.ym@gmail.com).
+- Further details on how to create pull requests can be found in the official [GitHub documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
